@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <menu tipo="Entrantes">
+        <plato>Gambas</plato>
+        <precio>15$</precio>
+        <descripcion>Gambas peladas con aceite.</descripcion>
+        <calorias>138 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>mejillones al vapor</plato>
+        <precio>11$</precio>
+        <descripcion>200g de mejillones al vapor servidos en su olla.</descripcion>
+        <calorias>342 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>mejillones marinera</plato>
+        <precio>13$</precio>
+        <descripcion>300g de mejillones a la marinera servidos en su olla.</descripcion>
+        <calorias>231 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>calamares a la romana</plato>
+        <precio>9$</precio>
+        <descripcion>100g de calamares servidos en mini platocon limon.</descripcion>
+        <calorias>106 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>Salmon al horno con patatas</plato>
+        <precio>21$</precio>
+        <descripcion>300g de mejillones a la marinera servidos en su olla</descripcion>
+        <calorias>231 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
