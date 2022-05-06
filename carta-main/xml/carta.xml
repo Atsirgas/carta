@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+    <menu tipo="Entrantes">
+        <plato>Gambas</plato>
+        <precio>15$</precio>
+        <descripcion>Gambas peladas con aceite.</descripcion>
+        <calorias>138 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>Mejillones al vapor</plato>
+        <precio>11$</precio>
+        <descripcion>200g de mejillones al vapor servidos en su olla.</descripcion>
+        <calorias>342 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>Mejillones marinera</plato>
+        <precio>13$</precio>
+        <descripcion>300g de mejillones a la marinera servidos en su olla.</descripcion>
+        <calorias>231 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>Si</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>Xipirones</plato>
+        <precio>15$</precio>
+        <descripcion>Gran plato de xipirones fritos.</descripcion>
+        <calorias>431 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>Si</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>Calamares a la plancha</plato>
+        <precio>17$</precio>
+        <descripcion>Plato con 3 calamares a la placha acompañados con arroz blanco y perejil</descripcion>
+        <calorias>231 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>calamares a la romana</plato>
+        <precio>9$</precio>
+        <descripcion>100g de calamares servidos en mini platocon limon.</descripcion>
+        <calorias>106 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Entrantes">
+        <plato>Pulpo a la gallega</plato>
+        <precio>15$</precio>
+        <descripcion>Pulpo a la gallega con pimentón y patatas</descripcion>
+        <calorias>236 calorias</calorias>
+        <caracteristicas>Marisco</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+
+
+    <menu tipo="Primeros">
+        <plato>Salmon al horno con patatas</plato>
+        <precio>21$</precio>
+        <descripcion>salmon horneado en su punto con patatas en su aceite</descripcion>
+        <calorias>114 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>merluza la horno</plato>
+        <precio>31$</precio>
+        <descripcion>merluza salteada con patatas al horno</descripcion>
+        <calorias>230 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>sopa de Marisco</plato>
+        <precio>12$</precio>
+        <descripcion>Deliciosa sopa de marisco </descripcion>
+        <calorias>333 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>dorada al horno con patatas</plato>
+        <precio>35$</precio>
+        <descripcion>3 doradas al horno para compartir</descripcion>
+        <calorias>121 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>salmonete a la pancha</plato>
+        <precio>17$</precio>
+        <descripcion>solmonete a la plancha en su jugo</descripcion>
+        <calorias>200 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>Lenguado</plato>
+        <precio>22$</precio>
+        <descripcion>Lenguado a la palcha condimentado con especies</descripcion>
+        <calorias>191 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>Rape</plato>
+        <precio>17$</precio>
+        <descripcion>Rape fresco rebozado con mayonesa</descripcion>
+        <calorias>350 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
+        <gluten>si</gluten>
+    </menu>
+
+    <menu tipo="Postres">
+        <plato>cheesecake</plato>
+        <precio>4,99$</precio>
+        <descripcion>pastel de queso casero</descripcion>
+        <calorias>521 calorias</calorias>
+        <caracteristicas>Dulces</caracteristicas>
+        <gluten>si</gluten>
+    </menu>
+
+    <menu tipo="Postres">
+        <plato>Yogurt natural</plato>
+        <precio>4,99$</precio>
+        <descripcion>Yogurt natural de la casa</descripcion>
+        <calorias>200 calorias</calorias>
+        <caracteristicas>Dulces</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Postres">
+        <plato>Fruta de la temporada</plato>
+        <precio>4,99$</precio>
+        <descripcion>Fruta :D</descripcion>
+        <calorias>80 calorias</calorias>
+        <caracteristicas>Fruta</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Postres">
+        <plato>flan de huevo</plato>
+        <precio>4,99$</precio>
+        <descripcion>flan de huevo :O</descripcion>
+        <calorias>150 calorias</calorias>
+        <caracteristicas>Dulces</caracteristicas>
+        <gluten>si</gluten>
+    </menu>
+
+    <menu tipo="Postres">
+        <plato>Crema catalana</plato>
+        <precio>3,99$</precio>
+        <descripcion>Crema catalana quemada</descripcion>
+        <calorias>350 calorias</calorias>
+        <caracteristicas>Dulces</caracteristicas>
+        <gluten>si</gluten>
+    </menu>
+
+    <menu tipo="Postres">
+        <plato>Tiramisú</plato>
+        <precio>4,99$</precio>
+        <descripcion>Helado de nata y café colombiano</descripcion>
+        <calorias>250 calorias</calorias>
+        <caracteristicas>Dulces</caracteristicas>
+        <gluten>si</gluten>
+    </menu>
+
+
+
+</menus>
