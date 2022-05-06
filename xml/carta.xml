@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<menu>
+<menus>
     <menu tipo="Entrantes">
         <plato>Gambas</plato>
         <precio>15$</precio>
@@ -36,11 +36,58 @@
         <gluten>No</gluten>
     </menu>
 
-    <menu tipo="Entrantes">
+    <menu tipo="Primeros">
         <plato>Salmon al horno con patatas</plato>
         <precio>21$</precio>
-        <descripcion>300g de mejillones a la marinera servidos en su olla</descripcion>
-        <calorias>231 calorias</calorias>
-        <caracteristicas>Marisco</caracteristicas>
+        <descripcion>salmon horneado en su punto con patatas en su aceite</descripcion>
+        <calorias>114 calorias</calorias>
+        <caracteristicas>Pescado</caracteristicas>
         <gluten>No</gluten>
     </menu>
+
+    <menu tipo="Primeros">
+        <plato>merluza la horno</plato>
+        <precio>31$</precio>
+        <descripcion>merluza salteada con patatas al horno</descripcion>
+        <calorias>230 calorias</calorias>
+        <caracteristicas>pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>sopa de Marisco</plato>
+        <precio>12$</precio>
+        <descripcion>Deliciosa sopa de marisco </descripcion>
+        <calorias>333 calorias</calorias>
+        <caracteristicas>pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>dorada al horno con patatas</plato>
+        <precio>35$</precio>
+        <descripcion>3 doradas al horno para compartir</descripcion>
+        <calorias>491 calorias</calorias>
+        <caracteristicas>pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Primeros">
+        <plato>salmonete a la pancha</plato>
+        <precio>17$</precio>
+        <descripcion>solmonete a la plancha en su plancha</descripcion>
+        <calorias>491 calorias</calorias>
+        <caracteristicas>pescado</caracteristicas>
+        <gluten>No</gluten>
+    </menu>
+
+    <menu tipo="Postres">
+        <plato>cheesecake</plato>
+        <precio>4,99$</precio>
+        <descripcion>pastel de queso casero</descripcion>
+        <calorias>521 calorias</calorias>
+        <caracteristicas></caracteristicas>
+        <gluten>si</gluten>
+    </menu>
+
+</menus>
